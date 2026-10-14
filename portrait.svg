@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282" height="236" viewBox="0 0 282 236" role="img" aria-label="Animated terminal profile art">
+  <rect width="100%" height="100%" rx="12" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="281" height="235" rx="12" fill="none" stroke="#30363d"/>
+  <g font-family="Consolas, Monaco, 'Courier New', monospace" font-size="14" fill="#c9d1d9" xml:space="preserve">
+    <text x="24" y="28" opacity="0">        @@@@@@@@        <animate attributeName="opacity" from="0" to="1" dur="0.18s" begin="0.00s" fill="freeze"/></text>
+    <text x="24" y="43" opacity="0">     @@@@@@@@@@@@@@@@     <animate attributeName="opacity" from="0" to="1" dur="0.18s" begin="0.06s" fill="freeze"/></text>
+    <text x="24" y="58" opacity="0">   @@@@@@@@@@@@@@@@@@@@   <animate attributeName="opacity" from="0" to="1" dur="0.18s" begin="0.11s" fill="freeze"/></text>
+    <text x="24" y="73" opacity="0">  @@@@@@@  @@@@  @@@@@@@  <animate attributeName="opacity" from="0" to="1" dur="0.18s" begin="0.17s" fill="freeze"/></text>
+    <text x="24" y="88" opacity="0"> @@@@@@    @@@@    @@@@@@ <animate attributeName="opacity" from="0" to="1" dur="0.18s" begin="0.22s" fill="freeze"/></text>
+    <text x="24" y="103" opacity="0"> @@@@@@  @@@@@@@@  @@@@@@ <animate attributeName="opacity" from="0" to="1" dur="0.18s" begin="0.28s" fill="freeze"/></text>
+    <text x="24" y="118" opacity="0"> @@@@@@  @@@BT@@@  @@@@@@ <animate attributeName="opacity" from="0" to="1" dur="0.18s" begin="0.33s" fill="freeze"/></text>
+    <text x="24" y="133" opacity="0"> @@@@@@    @@@@    @@@@@@ <animate attributeName="opacity" from="0" to="1" dur="0.18s" begin="0.39s" fill="freeze"/></text>
+    <text x="24" y="148" opacity="0">  @@@@@@@  @@@@  @@@@@@@  <animate attributeName="opacity" from="0" to="1" dur="0.18s" begin="0.44s" fill="freeze"/></text>
+    <text x="24" y="163" opacity="0">   @@@@@@@@@@@@@@@@@@@@   <animate attributeName="opacity" from="0" to="1" dur="0.18s" begin="0.49s" fill="freeze"/></text>
+    <text x="24" y="178" opacity="0">     @@@@@@@@@@@@@@@@     <animate attributeName="opacity" from="0" to="1" dur="0.18s" begin="0.55s" fill="freeze"/></text>
+    <text x="24" y="193" opacity="0">        @@@@@@@@        <animate attributeName="opacity" from="0" to="1" dur="0.18s" begin="0.60s" fill="freeze"/></text>
+  </g>
+</svg>
