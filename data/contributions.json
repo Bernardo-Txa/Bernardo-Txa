@@ -1,6 +1,6 @@
 {
   "username": "Bernardo-Txa",
-  "fetched_at": "2026-11-25T17:13:44Z",
+  "fetched_at": "2026-11-26T16:54:06Z",
   "source": "https://github.com/users/Bernardo-Txa/contributions",
   "days": [
     {
@@ -1840,6 +1840,11 @@
     },
     {
       "date": "2026-11-25",
+      "count": 0,
+      "level": 1
+    },
+    {
+      "date": "2026-11-26",
       "count": 0,
       "level": 0
     }
